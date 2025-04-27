@@ -1,3 +1,15 @@
-<p>Trang chủ: </p>
-<img src="https://github.com/user-attachments/assets/0205b552-9415-4561-86ce-4d97505de81e" alt="Mô tả" width="300"/>
+<p>Home: </p>
+<img src="https://github.com/user-attachments/assets/9f65ada2-84f8-403c-af1e-c5f99eca58ae" alt="Mô tả" width="300"/>
+
+<p>History log: </p>
+<img src="https://github.com/user-attachments/assets/6a5d6d17-dd5c-475d-83ad-f5cf6bfbc8fa" alt="Mô tả" width="300"/>
+
+<p>Setting: </p>
+<img src="https://github.com/user-attachments/assets/d5b90ac2-1c6e-449c-9bde-c2851d622dd6" alt="Mô tả" width="300"/>
+
+<p>Changed color: </p>
+<img src="https://github.com/user-attachments/assets/aa8102e4-810b-4c5a-85e1-ebae0c5fc78c" alt="Mô tả" width="300"/>
+
+
+
 
